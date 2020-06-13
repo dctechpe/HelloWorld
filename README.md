@@ -10,6 +10,6 @@
 
 # Noddies favoritos: Leer
 
-# Hembras favoritos: Roxy , Mónica, Carolina
+# Hembras favoritos: Roxy , Mónica, , Grabriela, Carolina
 
 \n## Installation
