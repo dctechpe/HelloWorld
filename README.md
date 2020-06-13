@@ -8,4 +8,6 @@
 
 # Deportes favoritos: Fútbol
 
+# Deportes favoritos: Barras paralelas
+
 \n## Installation
