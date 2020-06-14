@@ -6,7 +6,7 @@
 
 # Libros favoritos: nuevas tecnologías
 
-# Deportes favoritos: Fútbol, Natación, Barras paralelas, Barra fija
+# Deportes favoritos: Fútbol, Natación, Barras paralelas, Barra fija, Escalada
 
 # Noddies favoritos: Leer, Deporte, Mujeres, Comer, Correr, Nadar, Programar, Sexo
 
