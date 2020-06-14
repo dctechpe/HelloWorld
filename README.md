@@ -8,7 +8,7 @@
 
 # Deportes favoritos: Fútbol, Natación, Barras paralelas, Barra fija
 
-# Noddies favoritos: Leer, Deporte, Mujeres, Sexo, Comer, Correr
+# Noddies favoritos: Leer, Deporte, Mujeres, Sexo, Comer, Correr, Nadar
 
 # Hembras favoritos: Roxy , Mónica, , Grabriela, Carmen, Karina, Carolina
 
