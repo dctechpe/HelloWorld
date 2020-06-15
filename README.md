@@ -4,7 +4,7 @@
 
 ![headshot](github.jpg)
 
-# Libros favoritos: nuevas tecnologías, Literatura
+# Libros favoritos: nuevas tecnologías, Literatura, deporte
 
 # Deportes favoritos: Fútbol, Natación, Barras paralelas, Barra fija, Escalada, Boxeo, Yudo
 
