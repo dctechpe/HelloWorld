@@ -10,6 +10,6 @@
 
 # Noddies favoritos: Leer, Deporte, Mujeres, Comer, Correr, Nadar, Programar, Sexo
 
-# Hembras favoritas: Roxy , Mónica, Grabriela, Carmen, Karina, Carolina
+# Hembras favoritas: Roxy , Mónica, Gabriela, Carmen, Karina, Carolina
 
 \n## Installation
